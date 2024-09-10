@@ -6,7 +6,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 03](https://github.com/himabindhu717/Aiml_2303A52050/blob/main/AIML_lab_3.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
-[Lab 04](): Implement Linear Regression using Boston Housing Data
+[Lab 04](https://github.com/himabindhu717/Aiml_2303A52050/blob/main/Aiml%20lab4): Implement Linear Regression using Boston Housing Data
 
 [Lab 05](): Implement Logistic Regression using Titanic Ship Data
 
