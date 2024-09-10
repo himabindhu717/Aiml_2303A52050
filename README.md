@@ -1,6 +1,6 @@
 Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
-[Lab 01](): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
+[Lab 01](https://github.com/himabindhu717/Aiml_2303A52050/blob/main/Welcome_To_Colab.ipynb): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
 
 [Lab 02](): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 
