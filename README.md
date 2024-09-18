@@ -8,7 +8,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 04](https://github.com/himabindhu717/Aiml_2303A52050/blob/main/Aiml%20lab4): Implement Linear Regression using Boston Housing Data
 
-[Lab 05](): Implement Logistic Regression using Titanic Ship Data
+[Lab 05](https://github.com/himabindhu717/Aiml_2303A52050/blob/main/Aiml_lab_5.ipynb): Implement Logistic Regression using Titanic Ship Data
 
 [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
